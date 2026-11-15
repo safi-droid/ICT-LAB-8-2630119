@@ -1,0 +1,1 @@
+echo "Idea: Use Git and GitHub to keep all my ICT course files backed up and track every change." > idea.txt
